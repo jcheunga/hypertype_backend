@@ -1,4 +1,4 @@
 {
-  "host": "feathers-chat-app.feathersjs.com",
+  "host": "hypertype-backend.dokku.jcapps.xyz",
   "port": "PORT"
 }
